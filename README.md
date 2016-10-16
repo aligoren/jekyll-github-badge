@@ -12,6 +12,6 @@ For responsive card
 
 For using
 
-```json
+```jekyll
 {% gitrepo USERNAME/REPO %}
 ```
